@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bloomvenus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bloomvenus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bloomvenus.com/collections/slimming.atom"/>
+  <title>BloomVenus</title>
+  <updated>2021-06-18T05:57:04-04:00</updated>
+  <author>
+    <name>BloomVenus</name>
+  </author>
+  <entry>
+    <id>https://bloomvenus.com/products/3946422566987</id>
+    <published>2021-06-18T05:57:04-04:00</published>
+    <updated>2021-06-18T05:57:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bloomvenus.com/products/bamboo-charcoal-thermal-body-shapewear"/>
+    <title>Bamboo Charcoal Thermal Body Shapewear</title>
+    <s:type></s:type>
+    <s:vendor>BloomVenus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0258/8026/4779/products/bloomvenus-bamboo-charcoal-thermal-body-shapewear-12052443267147.jpg?v=1590133817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BloomVenus<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Product Description:</h2>
+<img src="https://media.giphy.com/media/KcQfYM064pXhcitGc4/giphy.gif" width="408" height="230">
+<p>It effectively transforms your body into an hourglass figure in an instant! The thermal insulating fabric provides excellent thermal retention, eliminates infrared radiation and accelerates blood circulation!</p>
+<ul>
+<li>Flatten waist and tummy</li>
+<li>Corrects bad posture</li>
+<li>Sweat-free comfort</li>
+<li>Stretchable</li>
+</ul>
+<h2>How to Use:</h2>
+<img src="https://media.giphy.com/media/JThAH6UHM42qDHJ3kU/giphy.gif" width="409" height="320">
+<p>Wear this as an innerwear.</p>
+<h2>Specifications:</h2>
+<p><strong>Material:</strong> Cotton, Bamboo Fiber, Lycra<br><strong>Size Selection Reference:</strong> S/M ( 95-144 lb.), L/XL ( 120-169 lb. ), 2XL/3XL ( 145-194 lb.)<br><strong>Size S-M:</strong> Hips:84-94CM/33.1-37.0" Waist:62-72CM/24.4-28.3"<br><strong>Size L-XL:</strong> Hips:92-104CM/36.2-40.9" Waist:70-82CM/27.6-32.3"<br><strong>Size XXL-XXXL:</strong> Hips:100-112CM/39.4-44.1" Waist:80-90CM/31.5-35.4"<br><strong>Color:</strong> Nude/Black/Gray</p>
+<h2>Includes:</h2>
+<p>1 x Body Shapewear</p>
+<h2>Notes:</h2>
+<ul>
+<li>The color of the product shown in the pictures may slightly vary from the actual item due to the differences in the monitor and light effect.</li>
+<li>Please allow slight measuring deviation due to manual measurement.</li>
+</ul>
+<h2>🌎FREE Shipping Worldwide ✈️</h2>
+<p>We are proud to offer FREE Shipping Worldwide on all orders. Standard International Shipping: 8-20 business days. All orders will be dispatched from our warehouse within 3 business days. In peak periods please allow for up to 6 business days for dispatch. Tracking Numbers will be sent so you can track it every step of the way.<br>*</p>
+<p>All shipping times exclude clearance/customs delays.</p>
+<h2>🔒 100% Risk-Free Purchase 🔥</h2>
+<p>If you bought it and felt that it is not for you, don't worry. Just shoot us a message at contact@bloomvenus.com and we will make it right by offering you a replacement or refund.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bamboo charcoal</s:tag>
+    <s:tag>Bamboo Charcoal Thermal Body Shapewear</s:tag>
+    <s:tag>body shapewear</s:tag>
+    <s:tag>Charcoal Thermal Body Shapewear</s:tag>
+    <s:tag>shapewear</s:tag>
+    <s:tag>thermal body shapewear</s:tag>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422566987</id>
+      <title>Black / XXL to XXXL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>2315967-black-xxl-to-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422566987</id>
+      <title>Black / L to XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>2315967-black-l-to-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422566987</id>
+      <title>Black / S to M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>2315967-black-s-to-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422566987</id>
+      <title>Gray / XXL to XXXL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>2315967-gray-xxl-to-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422566987</id>
+      <title>Gray / L to XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>2315967-gray-l-to-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422566987</id>
+      <title>Gray / S to M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>2315967-gray-s-to-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422566987</id>
+      <title>Nude / XXL to XXXL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>2315967-nude-xxl-to-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422566987</id>
+      <title>Nude / L to XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>2315967-nude-l-to-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422566987</id>
+      <title>Nude / S to M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>2315967-nude-s-to-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bloomvenus.com/products/4430060257355</id>
+    <published>2021-06-18T05:45:45-04:00</published>
+    <updated>2021-06-18T05:45:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bloomvenus.com/products/delicateskin-portable-chin-neckline-massager"/>
+    <title>DelicateSkin™ Portable Chin Neckline Massager</title>
+    <s:type></s:type>
+    <s:vendor>BloomVenus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0258/8026/4779/products/product-image-1189860873.jpg?v=1590129972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BloomVenus<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><b>Product Description:</b></h2>
+<p><img src="https://cdn.shopify.com/s/files/1/0258/8026/4779/files/1_3_480x480.jpg?v=1578445247" alt=""></p>
+<p><span style="font-weight: 400;">Having a double chin is often associated with weight gain, but a person doesn't have to be obese to have one. It may also be genetics and a result of aging. If you're one of those who struggle with having a double chin, there's an excellent face slimming device that could actually solve your problem — </span><b>DelicateSkin™ Portable Chin Neckline Massager</b><span style="font-weight: 400;">!</span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0258/8026/4779/files/2_18a9ae3d-29c6-41b5-9721-b136850c886a_480x480.jpg?v=1578445267" alt=""></p>
+<p><span style="font-weight: 400;">This revolutionary device designed to eliminate a double chin, thus helping you achieve the face shape you desire. It features three different strength springs (low, medium, and high) that produce different massage effect. From beginner to advanced toning, for rapid results.</span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0258/8026/4779/files/3_6_480x480.jpg?v=1578445281" alt=""></p>
+<p><span style="font-weight: 400;">Aside from double chin, </span><b>DelicateSkin™ Portable Chin Neckline Massager</b><span style="font-weight: 400;"> is also effective in firming your neck and cheeks — without going under the knife or taking pills.</span></p>
+<p><span style="font-weight: 400;">This facial beauty tool is not only suitable for women but also perfect for men who deal with a double chin. </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mini and stylish appearance</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Convenient to carry</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Gives dramatic results in just 2 minutes a day</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ideal beauty facial tool</span></li>
+</ul>
+<h2><b>How to Use:</b></h2>
+<p><span style="font-weight: 400;">GIF</span></p>
+<p><b>Step 1:</b><span style="font-weight: 400;"> Hold the device in your dominant hand.</span></p>
+<p><b>Step 2:</b><span style="font-weight: 400;"> Place the bottom of the facial massager against your chest up to your collarbone.</span></p>
+<p><b>Step 3:</b><span style="font-weight: 400;"> Rest the area behind your chin onto the gray padding of the pump.</span></p>
+<p><b>Step 4:</b><span style="font-weight: 400;"> Bring your head down, like you're nodding. Do it slowly while holding the device in place. </span></p>
+<p><b>Step 5:</b><span style="font-weight: 400;"> Bring your chin down to press the pump down into the facial massager.</span></p>
+<p><b>Step 6:</b><span style="font-weight: 400;"> Press down slowly and firmly as you feel some resistance, focusing on your neck muscles.</span></p>
+<p><em><span style="font-weight: 400;">*Repeat this process for two minutes a day, 15 to 20 times a minute.</span></em></p>
+<h3><span style="text-decoration: underline;"><em><b>How to install spring?</b></em></span></h3>
+<p><span style="font-weight: 400;">GIF </span></p>
+<p><b>Step 1:</b><span style="font-weight: 400;"> Choose the spring that as per your requirement (pink: low, green: medium, or purple: high).</span></p>
+<p><b>Step 2: </b><span style="font-weight: 400;">Unlock the chin pad by twisting the gold locking ring in a counter-clockwise position. The chin pad will pop up, keep twisting the gold ring until it "clicks" into the unlocked position.</span></p>
+<p><b>Step 3:</b><span style="font-weight: 400;"> Once it is unlocked, you can insert the spring.</span></p>
+<p><b>Step 4:</b><span style="font-weight: 400;"> To lock the chin pad in the down position, depress the chin pad fully and twist the gold locking ring in a clockwise direction until it "clicks" into the locked position. </span></p>
+<h2><b>Specifications:</b></h2>
+<p><b>Item weight:</b><span style="font-weight: 400;"> 0.21 lbs. (93 grams)</span></p>
+<p><b>Item size:</b><span style="font-weight: 400;"> 136 * 5.6 * 4.2cm</span></p>
+<h2><b>Include:</b></h2>
+<p><span style="font-weight: 400;">1 x Neckline Slimmer</span></p>
+<p><span style="font-weight: 400;">1 x Carry Bag</span></p>
+<p><span style="font-weight: 400;">3 x Springs </span></p>
+<p><span style="font-weight: 400;">1 x Instruction Manual  </span></p>
+<h2><b>Note:</b></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The color of the product shown in the pictures may slightly vary from the actual item due to the differences in the monitor and light effect.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Please allow slight measuring deviation due to manual measurement.</span></li>
+</ul>
+<h2><b>🌎FREE Shipping Worldwide ✈️</b></h2>
+<p><span style="font-weight: 400;">We are proud to offer Free Shipping Worldwide on all orders. Standard International Shipping: 8-20 business days. All orders will be dispatched from our warehouse within 3 business days. In peak periods please allow for up to 6 business days for dispatch. Tracking Numbers will be sent so you can track it every step of the way.</span></p>
+<p><span style="font-weight: 400;">*All shipping times exclude clearance/customs delays.</span></p>
+<h2><b>🔒 100% Risk-Free Purchase 🔥</b></h2>
+<p><span style="font-weight: 400;">If you bought it and felt that it is not for you, don't worry. Just shoot us a message at contact@bloomvenus.com and we will make it right by offering you a replacement or refund.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chin Massager</s:tag>
+    <s:tag>DelicateSkin</s:tag>
+    <s:tag>Neckline Massager</s:tag>
+    <s:tag>Portable Chin Neckline Massager</s:tag>
+    <s:variant>
+      <id>https://bloomvenus.com/products/4430060257355</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>7989437-magnetic-neck-belt</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bloomvenus.com/products/4172278693963</id>
+    <published>2019-10-09T02:49:52-04:00</published>
+    <updated>2019-10-09T02:49:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bloomvenus.com/products/goodshape-detox-slim-patches"/>
+    <title>GoodShape™ Detox Slim Patches</title>
+    <s:type></s:type>
+    <s:vendor>BloomVenus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0258/8026/4779/products/8_71da57ff-3cc6-4a55-930b-78ca92653024.jpg?v=1590103275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BloomVenus<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99 - 20.99
+            <a href="https://bloomvenus.com/products/goodshape-detox-slim-patches">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Product<b> Description:</b>
+</h2>
+<p><img src="https://media.giphy.com/media/SwOG4CGpVGxYfeYyiq/giphy.gif"></p>
+<p><span style="font-weight: 400;">A sedentary lifestyle and unhealthy food choices are two of the main reasons there are many people (worldwide) who suffer from obesity. If you are or you know someone who wants to solve bodyweight issues, there's a perfect solution that can help bring back your slim body — </span><b>GoodShape™ Detox Slim Patches</b><span style="font-weight: 400;">!</span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0258/8026/4779/files/1_bf6fcd8b-0585-4e9a-8d82-0b68e3343000_480x480.jpg?v=1570600015" alt=""></p>
+<p><span style="font-weight: 400;"><img src="https://media.giphy.com/media/lOh4CMq8ys1gPOrcrc/giphy.gif"></span></p>
+<p><span style="font-weight: 400;">This slim patch is a highly effective natural way to trim down some pounds given that it is made of good natural ingredients that help in detoxifying accumulated toxins and removing excess body fat.</span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0258/8026/4779/files/2_5c67a19d-3127-43f8-9ee0-d120e48bedff_480x480.jpg?v=1570600036" alt=""></p>
+<p><span style="font-weight: 400;"><img src="https://media.giphy.com/media/h8ZWxGqD0gcgJMogYl/giphy.gif"></span></p>
+<p><b>GoodShape™ Detox Slim Patches</b><span style="font-weight: 400;"> uses advanced transdermal technology that helps in stimulating lipid metabolism. It also increases blood circulation, removes the toxins that have built-up in the body, and helps people with thick waists stay slim and healthy.</span></p>
+<p><img src="https://media.giphy.com/media/hUMCD9LmdL9i1hejPm/giphy.gif"></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0258/8026/4779/files/3_42f2406d-aa07-4b04-92c8-ef784311d767_480x480.jpg?v=1570600587" alt=""></p>
+<p><span style="font-weight: 400;">With this product, getting a firmer, attractive, and sexy body shape is possible with the convenience and comfort of your home.</span></p>
+<h2><b>How to Use:</b></h2>
+<p><img src="https://media.giphy.com/media/QtpVTmfIKesg7msoal/giphy.gif"></p>
+<p><span style="font-weight: 400;"></span><b>Step 1:</b><span style="font-weight: 400;"> Tear the bags and pick up the slimming patch.</span></p>
+<p><b>Step 2:</b><span style="font-weight: 400;"> Paste the slimming patch on the clean and dry navel (legs or arms), then fixed the adhesive.</span></p>
+<p><b>Step 3:</b><span style="font-weight: 400;"> Use one piece per day, for 12-24 hours in the course of one month. *For better results, try a two-month course.</span></p>
+<h2>
+<span style="font-weight: 400;"></span><b>Disclaimer:</b>
+</h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The product is for external use only.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Do not use the product if you are pregnant, breastfeeding or suffer from skin allergies.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Do not stick it on damaged skin and if irritation occurs.</span></li>
+</ul>
+<h2>
+<span style="font-weight: 400;"></span><b>Specifications:</b>
+</h2>
+<p><span style="font-weight: 400;"></span><b>Material:</b><span style="font-weight: 400;"> Traditional Chinese medicine + Papers + Gauze</span></p>
+<p><b>Type:</b><span style="font-weight: 400;"> Slimming Patch</span></p>
+<p><b>Box Size(L x W H):</b><span style="font-weight: 400;"> Approx. 13 x 5.6 x 10.4cm</span></p>
+<p><b>Navel Stick Size(L x W):</b><span style="font-weight: 400;"> 7 x 6cm </span></p>
+<p><b>Color:</b><span style="font-weight: 400;"> White</span></p>
+<h2>
+<span style="font-weight: 400;"></span><b>Include:</b>
+</h2>
+<p><span style="font-weight: 400;"></span><span style="font-weight: 400;">1 x Box = 10pcs / 30pcs Slim Patch</span></p>
+<h2>
+<span style="font-weight: 400;"></span><b>Note:</b>
+</h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The color of the product shown in the pictures may slightly vary from the actual item due to the differences in the monitor and light effect.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Please allow slight measuring deviation due to manual measurement.</span></li>
+</ul>
+<h2>
+<span style="font-weight: 400;"></span><b>🌎FREE Shipping Worldwide ✈️</b>
+</h2>
+<p><span style="font-weight: 400;"></span><span style="font-weight: 400;">We are proud to offer FREE Shipping Worldwide on all orders. Standard International Shipping: 8-20 business days. All orders will be dispatched from our warehouse within 3 business days. In peak periods please allow for up to 6 business days for dispatch. Tracking Numbers will be sent so you can track it every step of the way.</span></p>
+<p><span style="font-weight: 400;"></span><span style="font-weight: 400;">*All shipping times exclude clearance/customs delays.</span></p>
+<h2>
+<span style="font-weight: 400;"></span><b>🔒 100% Risk-Free Purchase 🔥</b>
+</h2>
+<p><span style="font-weight: 400;"></span><span style="font-weight: 400;">If you bought it and felt that it is not for you, don't worry. Just shoot us a message at contact@bloomvenus.com and we will make it right by offering you a replacement or refund.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox Slim Patches</s:tag>
+    <s:tag>GoodShape</s:tag>
+    <s:tag>Patches</s:tag>
+    <s:tag>Slim Patches</s:tag>
+    <s:tag>Slimming</s:tag>
+    <s:tag>slimming patch</s:tag>
+    <s:tag>weigthloss</s:tag>
+    <s:variant>
+      <id>https://bloomvenus.com/products/4172278693963</id>
+      <title>30 pcs</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>25477066-30pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/4172278693963</id>
+      <title>10 pcs</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>25477066-10-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bloomvenus.com/products/3956404944971</id>
+    <published>2019-07-31T11:40:40-04:00</published>
+    <updated>2019-07-31T11:40:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bloomvenus.com/products/shapeitright-body-slimming-massager"/>
+    <title>Shape-It-Right™ Body Slimming Massager</title>
+    <s:type></s:type>
+    <s:vendor>BloomVenus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0258/8026/4779/products/excithing-daily-shape-it-right-body-slimming-massager-12097863974987.jpg?v=1590080890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BloomVenus<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><b>Product Description:</b></h2>
+<p><img src="https://media.giphy.com/media/VbEovUSSokhDfcIHV7/giphy.gif"></p>
+<p><img src="https://media.giphy.com/media/cgf6uoCt3AWknUEKkC/giphy.gif"></p>
+<p><b>Many individuals are dealing with fat gain due to the sedentary lifestyle most people have these days.</b><span style="font-weight: 400;"> The problem is not all are able to hit the gym or do some exercises at home due to a tight schedule. At this point, our </span><b>Shape-It-Right™ Body Slimming Massager</b><span style="font-weight: 400;"> is a perfect solution! </span></p>
+<p><span style="font-weight: 400;"><img src="https://media.giphy.com/media/dw9Hht31wyJBJGOwsk/giphy.gif"></span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/1_009ac30c-08d2-449c-9164-5ae42f2a213e_large.jpg?v=1564385063" alt=""></p>
+<p><img src="https://media.giphy.com/media/Q5iCRJQgE0g4Smsc9m/giphy.gif"></p>
+<p><b>3 TECHNOLOGIES:</b><span style="font-weight: 400;"> This revolutionary body slimming device uses three technologies (EMS, Infrared, and Ultrasonic) which help in burning fat on certain body parts, and also has 5 different EMS modes and 2 sonic vibration levels.</span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/2_bd9b1081-2e9e-46d9-b9b9-7ff09a59e9a5_large.jpg?v=1564385091" alt=""></p>
+<p><img src="https://media.giphy.com/media/Tf4aS8wimskJejXjWq/giphy.gif"></p>
+<p><b>IMPROVED SKIN:</b><span style="font-weight: 400;"> The use of sonic vibration and LED infrared promote helps in dissolution of fats, which in turns accelerate metabolism and regenerate skin elasticity for better-looking skin.</span></p>
+<p><b>1M ULTRASONIC VIBRATIONS PER SEC: </b><span style="font-weight: 400;">It produces 1 million ultrasonic vibrations per second which activate the cells and skin and help reduce the appearance of wrinkles.</span><br></p>
+<p><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/3_67ee3a92-1573-4201-b87a-246f81ad23fd_large.jpg?v=1564385115" alt=""></p>
+<p><img src="https://media.giphy.com/media/gKU1u4h11MNkXq9lmR/giphy.gif"></p>
+<p><b>STIMULATE THE MUSCLES: </b><span style="font-weight: 400;">EMS can stimulate the muscles and  acupuncture points, which relaxes muscle spasms and increases local blood circulation.</span></p>
+<p><b>EFFECTIVE SLIMMING DEVICE:</b><span style="font-weight: 400;"> This revolutionary tool can help you get the body curves you desire without going under the knife. Not to mention that it also works on face shaping.</span><br></p>
+<ul></ul>
+<p><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/4_91167987-b27b-476a-bfb6-fc8f2f07c1a1_large.jpg?v=1564385136" alt=""></p>
+<p><img src="https://media.giphy.com/media/YkhYNMqkk3aNWaCTRa/giphy.gif"></p>
+<p><b>MASSAGING &amp; RELAXING:</b><span style="font-weight: 400;"> In addition to accelerating the consumption of fats, it can also help with severe chronic back pain and other forms of body aches.</span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/5_8dab8a1e-fa4d-45f3-8f4d-0b919bd7c052_large.jpg?v=1564385150" alt=""></p>
+<h2><span style="font-weight: 400;"><b>How to Use:</b></span></h2>
+<p><img src="https://media.giphy.com/media/PmkCSO0kjJRtuZBCuN/giphy.gif"></p>
+<p><b>Step 1:</b><span style="font-weight: 400;"> Clean the skin before use and dry it.</span><br><b>Step 2:</b><span style="font-weight: 400;"> Select the EMS massage function and mode, then attach the patch to the desired part.</span><br><b>Step 3:</b><span style="font-weight: 400;"> Choose the EMS slimming mode and use it for 10-30 minutes.</span><br><b>Step 4:</b><span style="font-weight: 400;"> Use red light function and high-frequency vibration to select the mode according to the thickness of the skin.</span></p>
+<p><span style="font-weight: 400;"></span><strong>Warning:</strong></p>
+<ul>
+<li><span style="font-weight: 400;">Make sure not to touch the joints of the throat, eyes, elbows, knees, etc.</span></li>
+<li><span style="font-weight: 400;">Do not use EMS on your face!</span></li>
+</ul>
+<h2>
+<span style="font-weight: 400;"></span> <span style="font-weight: 400;"></span><b>Specifications:</b>
+</h2>
+<p><span style="font-weight: 400;"></span><span style="font-weight: 400;"><strong>Material:</strong> Cotton, ABS</span><br><span style="font-weight: 400;"><strong>Type:</strong> Body Shaper Machine</span><br><span style="font-weight: 400;"><strong>Working Frequency:</strong> 1Mhz Ultrasound</span><br><span style="font-weight: 400;"><strong>Using Time:</strong> 20-30 Minutes/time, 2-3 times A week</span><br><br></p>
+<h2>
+<span style="font-weight: 400;"></span><b>Include: </b>
+</h2>
+<p><span style="font-weight: 400;"></span><span style="font-weight: 400;">1 x Body Slimming Massager</span></p>
+<p><span style="font-weight: 400;">2 x Electrode Contact Pad</span></p>
+<p><span style="font-weight: 400;">1 x Power Adapter</span></p>
+<p><span style="font-weight: 400;">1 x User Manual</span></p>
+<h2>
+<span style="font-weight: 400;"></span><b>Note:</b>
+</h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Stop using if you feel any irritation.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Please be guided that patients, pregnant women, and the cardiac patient should not use this product.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Use the device for 10 minutes for each function for the first time, then gradually increase time to 20 minutes.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The color of the product shown in the pictures may slightly vary from the actual item due to the differences in the monitor and light effect.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Please allow slight measuring deviation due to manual measurement.</span></li>
+</ul>
+<h2>
+<span style="font-weight: 400;"></span><b>🌎FREE Shipping Worldwide ✈️</b>
+</h2>
+<p><span style="font-weight: 400;"></span><span style="font-weight: 400;">We are proud to offer FREE Shipping Worldwide on all orders. Standard International Shipping: 8-20 business days. All orders will be dispatched from our warehouse within 3 business days. In peak periods please allow for up to 6 business days for dispatch. Tracking Numbers will be sent so you can track it every step of the way.</span></p>
+<p><span style="font-weight: 400;"></span><span style="font-weight: 400;">*All shipping times exclude clearance/customs delays.</span></p>
+<h2>
+<span style="font-weight: 400;"></span><b>🔒 100% Risk-Free Purchase 🔥</b>
+</h2>
+<p><span style="font-weight: 400;"></span><span style="font-weight: 400;">If you bought it and felt that it is not for you, don't worry. Just shoot us a message at contact@bloomvenus.com and we will make it right by offering you a replacement or refund.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body Slimming Massager</s:tag>
+    <s:tag>kitchen</s:tag>
+    <s:tag>Shaper</s:tag>
+    <s:tag>Slimming Massager</s:tag>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3956404944971</id>
+      <title>US</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>21516888-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3956404944971</id>
+      <title>EU</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>21516888-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3956404944971</id>
+      <title>AU</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>21516888-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3956404944971</id>
+      <title>UK</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>21516888-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bloomvenus.com/products/3946425024587</id>
+    <published>2019-07-30T05:05:22-04:00</published>
+    <updated>2019-07-30T05:05:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bloomvenus.com/products/thermo-waist-trimmer-trainer-belt"/>
+    <title>Thermo Waist Trimmer Trainer Belt</title>
+    <s:type></s:type>
+    <s:vendor>BloomVenus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0258/8026/4779/products/bloomvenus-thermo-waist-trimmer-trainer-belt-12052459126859.jpg?v=1590074287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BloomVenus<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Product Description:</h2>
+<img src="https://media.giphy.com/media/L4g19FkYxRsDOoTF5U/giphy.gif">
+<p>Achieve 3-5 inches waist down with Thermo Wasit Trimmer Trainer Belt with back support and adjustable velcro closure waistband! Since it is made from thermo-based materials, it helps in burning excess fat on your stomach resulting in a slimmer hour-glass figure!</p>
+<ul>
+<li>Post pregnancy body shaper</li>
+<li>Promotes weight loss</li>
+<li>Very comfortable and easy to wear</li>
+</ul>
+<h2>How to Use:</h2>
+<p><img src="https://media.giphy.com/media/VeH8n1BbXcARq4VgqS/giphy.gif"></p>
+<p>Simply wrap it in your stomach.</p>
+<h2>Specifications:</h2>
+<p><strong>Material:</strong> Neoprene<br><strong>Weight:</strong> 0.58-0.79lb.<br><strong>Color:</strong> Black, Blue, Orange, Red</p>
+<h2>Include:</h2>
+<p>1 x Waist Trainer</p>
+<h2>Notes:</h2>
+<ul>
+<li>Wash the shaper before using</li>
+<li>If you feel slightly tight or uncomfortable, it will get better after 2 days.</li>
+<li>DO NOT IRON/MACHINE WASH/BLEACH</li>
+<li>The color of the product shown in the pictures may slightly vary from the actual item due to the differences in the monitor and light effect.</li>
+<li>Please allow slight measuring deviation due to manual measurement.</li>
+</ul>
+<h2>🌎FREE Shipping Worldwide ✈️</h2>
+<p>We are proud to offer FREE Shipping Worldwide on all orders. Standard International Shipping: 8-20 business days. All orders will be dispatched from our warehouse within 3 business days. In peak periods please allow for up to 6 business days for dispatch. Tracking Numbers will be sent so you can track it every step of the way.</p>
+<p>*All shipping times exclude clearance/customs delays.</p>
+<h2>🔒 100% Risk-Free Purchase 🔥</h2>
+<p>If you bought it and felt that it is not for you, don't worry. Just shoot us a message at contact@bloomvenus.com and we will make it right by offering you a replacement or refund.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>belt</s:tag>
+    <s:tag>thermo trainer belt</s:tag>
+    <s:tag>thermo waist trimmer</s:tag>
+    <s:tag>Thermo Waist Trimmer Trainer Belt</s:tag>
+    <s:tag>trainer belt</s:tag>
+    <s:tag>waist trimmer</s:tag>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Blue / L / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Blue / XL / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Orange / L / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-orange-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Orange / M / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-orange-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Orange / S / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-orange-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Orange / XL / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-orange-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Red / L / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Red / M / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Red / S / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Red / XL / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Red / XL / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Blue / XL / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Orange / S / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-orange-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Orange / XL / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-orange-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Orange / L / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-orange-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Orange / M / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-orange-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Blue / XXL / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-blue-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Blue / XXL / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-blue-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Orange / XXL / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-orange-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Orange / XXL / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-orange-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Red / XXL / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-red-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Red / XXL / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-red-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Black / XXL / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-black-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Black / XXL / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-black-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Yellow / XXL / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-yellow-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Yellow / XXL / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-yellow-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Yellow / L / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-yellow-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Yellow / L / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Yellow / M / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-yellow-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Yellow / M / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Yellow / S / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-yellow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Yellow / S / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Yellow / XL / China</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-yellow-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946425024587</id>
+      <title>Yellow / XL / United States</title>
+      <s:price currency="USD">23.32</s:price>
+      <s:sku>3309342-yellow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bloomvenus.com/products/3949269254219</id>
+    <published>2019-07-25T01:42:56-04:00</published>
+    <updated>2019-07-25T01:42:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bloomvenus.com/products/buttbooster-panties-body-shaper"/>
+    <title>ButtBooster™ Panties Body Shaper</title>
+    <s:type></s:type>
+    <s:vendor>BloomVenus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0258/8026/4779/products/excithing-daily-buttbooster-panties-body-shaper-12062181032011.jpg?v=1590118929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BloomVenus<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><b>Product Description:</b></h2>
+<p><b><img src="https://media.giphy.com/media/kd8eqZBsj9jlF9uJA3/giphy.gif"></b></p>
+<p><span style="font-weight: 400;">Having full and greatly shaped butt can make a person, especially a woman, look more attractive. As a matter of fact, it enhances the curvature of the spine, according to a recent study. However, your dream butt will never turn into reality if you don't work it out. Unfortunately, not everyone likes the idea of hitting the gym to do some booty exercises, which is why our </span><b>ButtBooster™ Panties Body Shaper</b><span style="font-weight: 400;"> is a blessing in disguise!</span></p>
+<p><span style="font-weight: 400;"><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/1_9b38321f-8188-43ce-bee1-15e8302c1cd3_large.jpg?v=1564024082" alt=""></span></p>
+<p><span style="font-weight: 400;">This butt shaper underwear is made of high-quality materials which guarantee to firm your butt without feeling excessive compression.</span></p>
+<p><span style="font-weight: 400;"><em><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/2_25279ffa-4515-4241-aefa-b36944a9bf03_large.jpg?v=1564024104" alt=""></em><br></span></p>
+<p><span style="font-weight: 400;">With its excellent elasticity, you can easily achieve a maximum butt lift without needing the use of padding. Thus, making you more confident to wear fitted pants, jeans, and dresses.</span></p>
+<p><span style="font-weight: 400;"><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/3_e0e94cd4-0bc5-40a8-8ca7-0569b0239e20_large.jpg?v=1564024135" alt=""></span></p>
+<p><span style="font-weight: 400;"><span><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/21_large.jpg?v=1564025732" alt=""></span></span></p>
+<p><span style="font-weight: 400;">In addition to its 360-degree feature that gives firm control to the butt, ButtBooster™ Panties Body Shaper also shapes the waist and makes your waist and tummy look slimmer without flattening the backside.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Creates a firm and perky butt look</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Easily creates “S” sexy curve</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Provides soft, fresh, and comfort feeling</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Seamless; no panty line</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fits for all pants</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Easy to wear</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lightweight</span></li>
+</ul>
+<h2><b>How to Use:</b></h2>
+<p> <img src="https://media.giphy.com/media/kd8eqZBsj9jlF9uJA3/giphy.gif"></p>
+<p><b>Step 1:</b><span style="font-weight: 400;"> Take the shapewear by the sides and put one foot at a time into it.</span> <br><b>Step 2:</b><span style="font-weight: 400;"> Pull the garment up to the waist.</span> <br><b>Step 3:</b><span style="font-weight: 400;"> Adjust the degree of tightness.</span> <br><b>Step 4:</b><span style="font-weight: 400;"> Make sure the shapewear is in the rightful position and has not rolled up.</span></p>
+<h2>
+<span style="font-weight: 400;"></span><b>Specifications:</b>
+</h2>
+<p><span style="font-weight: 400;"><span></span></span><b>Material:</b><span style="font-weight: 400;"> Nylon + Spandex</span> <br><b>Type:</b><span style="font-weight: 400;"> Shaper Panty</span> <br><b>Sizes:</b><span style="font-weight: 400;"> S, M, L, XL, XXL, XXXL</span> <br><b>Color:</b><span style="font-weight: 400;"> Black, Nude</span> <br><b>Control Level:</b><span style="font-weight: 400;"> Firm</span> <br><b>Thickness:</b><span style="font-weight: 400;"> Thin</span></p>
+<h2>
+<span style="font-weight: 400;"></span><b>Include:</b>
+</h2>
+<p><span style="font-weight: 400;"><span></span></span><span style="font-weight: 400;">1 x Butt Lifter Panties Body Shaper</span></p>
+<h2><b>Note: </b></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Only use non-chlorine bleach when needed.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Do not iron.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The color of the product shown in the pictures may slightly vary from the actual item due to the differences in the monitor and light effect.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Please allow slight measuring deviation due to manual measurement.</span></li>
+</ul>
+<h2><b>🌎FREE Shipping Worldwide ✈️</b></h2>
+<p><span style="font-weight: 400;"><span></span></span><span style="font-weight: 400;">We are proud to offer FREE Shipping Worldwide on all orders. Standard International Shipping: 8-20 business days. All orders will be dispatched from our warehouse within 3 business days. In peak periods please allow for up to 6 business days for dispatch. Tracking Numbers will be sent so you can track it every step of the way.</span></p>
+<p><span style="font-weight: 400;">*All shipping times exclude clearance/customs delays.</span></p>
+<h2><b>🔒 100% Risk-Free Purchase 🔥</b></h2>
+<p><span style="font-weight: 400;"><span></span></span><span style="font-weight: 400;">If you bought it and felt that it is not for you, don't worry. Just shoot us a message at contact@bloomvenus.com and we will make it right by offering you a replacement or refund.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949269254219</id>
+      <title>Black / S</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19334769-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949269254219</id>
+      <title>Black / M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19334769-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949269254219</id>
+      <title>Black / L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19334769-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949269254219</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19334769-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949269254219</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19334769-black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949269254219</id>
+      <title>Black / XXXL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19334769-black-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949269254219</id>
+      <title>Nude / S</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19334769-beige-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949269254219</id>
+      <title>Nude / M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19334769-beige-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949269254219</id>
+      <title>Nude / L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19334769-beige-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949269254219</id>
+      <title>Nude / XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19334769-beige-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949269254219</id>
+      <title>Nude / XXL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19334769-beige-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949269254219</id>
+      <title>Nude / XXXL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>19334769-beige-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bloomvenus.com/products/3949267386443</id>
+    <published>2019-07-25T01:42:26-04:00</published>
+    <updated>2019-07-25T01:42:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bloomvenus.com/products/shapeup-seamless-high-waist-slimming-shapewear"/>
+    <title>ShapeUp™ Seamless High Waist Slimming Shapewear</title>
+    <s:type></s:type>
+    <s:vendor>BloomVenus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0258/8026/4779/products/excithing-daily-shapeup-seamless-high-waist-slimming-shapewear-12062174216267.jpg?v=1590080413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BloomVenus<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><b>Product Description:</b></h2>
+<p><img src="https://media.giphy.com/media/VgfjF3Qb1TDZuYbM3W/giphy.gif"></p>
+<p><span style="font-weight: 400;">It can be hard for some women to lose weight and this makes them feel insecure about their body and start to lose their confidence. Although they have tried several exercises to shred off some pounds, they are not contented with the results, most especially on the areas such as buttocks, belly, and waist. Good thing there is </span><b>ShapeUp</b><b>™</b><b> Seamless High Waist Slimming Shapewear, </b><span style="font-weight: 400;">the ultimate shapewear that tightens the flesh, helps you control your tummy size and shapes up your buttocks, tummy, and waist to look firmer and sexier.</span></p>
+<p><img src="https://media.giphy.com/media/SY3K8va5JcnYv7CjIY/giphy.gif"></p>
+<p><span style="font-weight: 400;">This high-waist shapewear is made of high-quality, breathable material guaranteed to provide extreme comfort and light feeling when worn.</span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/1_119e4d23-529f-4a63-b83f-614c4a6a3bc6_large.jpg?v=1563958948" alt=""></p>
+<p><span style="font-weight: 400;">This product holds the belly well with its 360° locks and tightens the waist and abdominal fat, showing out your sexy figure. </span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/2_64647781-e6c8-46b9-9516-2f7c660ff495_large.jpg?v=1563958963" alt=""></p>
+<p><span style="font-weight: 400;">Yes, we dream of that sexy, tiny waist! This ShapeUp™ Seamless High Waist Slimming Underwear is especially designed with high-elastic fabric to tighten the flesh in the waist and makes those back lines more attractive. </span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/3_d7030060-f618-4074-896d-9dfa4f27558a_large.jpg?v=1563958981" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/4_4d18668e-f2f3-4cb3-b8d3-ddff5a213941_large.jpg?v=1563959001" alt=""></p>
+<p><span style="font-weight: 400;">With its 3D Hip Cup that lifts the hip up that prevents the hips from sagging, you will be amazed on how your butt will appear sexier and firmer, giving you the curve you’ve been dreaming of.</span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/5_874b3a95-6292-493f-b845-682d2cb67671_large.jpg?v=1564012679" alt=""></p>
+<p><img src="https://media.giphy.com/media/JROp1YvcZBzk1WZD0b/giphy.gif"></p>
+<p><span style="font-weight: 400;">We all hate those curls when we sit and bend. No worries as </span><b>ShapeUp</b><b>™</b><b> Seamless High Waist Slimming Shapewear </b><span style="font-weight: 400;">features a 4-anti roll elastic alloy steel bones at the waist that keeps waist away from curling.</span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/6_7b9eb374-e8bf-492a-8219-2687d293b1f5_large.jpg?v=1564012731" alt=""></p>
+<p><span style="font-weight: 400;">Oh, those legs! We want them to look slimmer and tighter. This shapewear also tightens extra flesh in the thigh making them look well with those slender legs. </span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0073/7853/4436/files/7_d5b4ba41-3ee8-4276-b774-dce363b940bf_large.jpg?v=1563959085" alt=""></p>
+<p><span style="font-weight: 400;">It has a long trousers design which enables it to be used as belly pants. It can also be used as underwear.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Creates a flat tummy</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tightens the waist to show your body’s curvy figure</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lifts up butt making it look more attractive</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Provides soft, fresh, and comfort feeling</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Seamless; no panty line</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can be worn in all seasons</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Easy to wear</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lightweight</span></li>
+</ul>
+<p><img src="https://media.giphy.com/media/ZbHuKOZMXPlx96fOnd/giphy.gif"> </p>
+<h2><b>How to Use:</b></h2>
+<p><img src="https://media.giphy.com/media/YN8SzQKOiCPeazKn3o/giphy-downsized-large.gif"> </p>
+<p><b>Step 1:</b><span style="font-weight: 400;"> Wear the shapewear by putting one foot at a time into it.</span> <br><b>Step 2:</b><span style="font-weight: 400;"> Pull the garment up to the waist.</span> <br><b>Step 3:</b><span style="font-weight: 400;"> Adjust it according to your desired degree of tightness.</span> <br><b>Step 4:</b><span style="font-weight: 400;"> Make sure the shapewear is positioned properly and isn’t rolled up.</span> </p>
+<h2><b>Specifications:</b></h2>
+<span style="font-weight: 400;"></span><b>Gender:</b><span style="font-weight: 400;"> Women</span> <br><b>Material:</b><span style="font-weight: 400;"> Polyester+Spandex</span> <br><b>Type:</b><span style="font-weight: 400;"> Shapewear</span> <br><b>Fabric Type:</b><span style="font-weight: 400;"> Broadcloth</span> <br><b>Sizes:</b><span style="font-weight: 400;"> S, ML, XXXL, XL2XL</span> <br><b>Colors</b><span style="font-weight: 400;">: Black and Nude</span>
+<h2><span style="font-weight: 400;"><br><b>Include:</b><br></span></h2>
+<p><span style="font-weight: 400;">1 x </span><span style="font-weight: 400;">ShapeUp</span><span style="font-weight: 400;">™</span><span style="font-weight: 400;"> Seamless Women High Waist Slimming </span><span style="font-weight: 400;">Shapewear</span></p>
+<h2> <b>Note:</b>
+</h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Only use non-chlorine bleach when needed.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Do not iron.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The color of the product shown in the pictures may slightly vary from the actual item due to the differences in the monitor and light effect.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Please allow slight measuring deviation due to manual measurement.</span></li>
+</ul>
+<h2>
+<span style="font-weight: 400;"> </span><b>🌎FREE Shipping Worldwide ✈️</b>
+</h2>
+<p>We are proud to offer FREE Shipping Worldwide on all orders. Standard International Shipping: 8-20 business days. All orders will be dispatched from our warehouse within 3 business days. In peak periods please allow for up to 6 business days for dispatch. Tracking Numbers will be sent so you can track it every step of the way.</p>
+<p>*All shipping times exclude clearance/customs delays.</p>
+<h2><b>🔒 100% Risk-Free Purchase 🔥</b></h2>
+<p>If you bought it and felt that it is not for you, don't worry. Just shoot us a message at contact@bloomvenus.com and we will make it right by offering you a replacement or refund.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butt lifter</s:tag>
+    <s:tag>high waist shapewear</s:tag>
+    <s:tag>shapewear</s:tag>
+    <s:tag>slimming shapewear</s:tag>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949267386443</id>
+      <title>Black / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>25471437-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949267386443</id>
+      <title>Black / M   L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>25471437-black-m-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949267386443</id>
+      <title>Black / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>25471437-black-xxxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949267386443</id>
+      <title>Black / XL    2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>25471437-black-xl-2xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949267386443</id>
+      <title>Nude / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>25471437-skin-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949267386443</id>
+      <title>Nude / M   L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>25471437-skin-m-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949267386443</id>
+      <title>Nude / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>25471437-skin-xxxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3949267386443</id>
+      <title>Nude / XL    2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>25471437-skin-xl-2xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bloomvenus.com/products/3946423451723</id>
+    <published>2019-07-24T00:00:13-04:00</published>
+    <updated>2019-07-24T00:00:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bloomvenus.com/products/buckle-free-elastic-waist-belt"/>
+    <title>Buckle-Free Elastic Waist Belt</title>
+    <s:type></s:type>
+    <s:vendor>BloomVenus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0258/8026/4779/products/bloomvenus-buckle-free-elastic-waist-belt-12052449624139.jpg?v=1590119299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BloomVenus<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Product Description:</h2>
+<img src="https://media.giphy.com/media/Pn6IOlDTLJR6GNg6wu/giphy.gif">
+<p> </p>
+<p>This high-quality made product lets you wear a comfortable and buckle-free belt more easily.</p>
+<ul>
+<li>Suitable for both men and women</li>
+<li>Allows free and casual movement</li>
+<li>No more back gap</li>
+<li>Holds up your pants well</li>
+<li>No pressing into the belly</li>
+<li>Hassle-free and time-saver</li>
+</ul>
+<h2>How to Use:</h2>
+<p><img src="https://media.giphy.com/media/gIZ3H1j83Cmwdh9MKz/giphy.gif"></p>
+<p>Simply attach both ends of the belt to the belt loops before the zipper.</p>
+<h2>Specifications:</h2>
+<p><strong>Material:</strong> PU<br><strong>Item Type:</strong> Belts<br><strong>Style:</strong> Casual<br><strong>Pattern Type:</strong> Solid<br><strong>Gender:</strong> Unisex<br><strong>Color:</strong> Black, Blue, Brown, Champagne, White</p>
+<h2>Include:</h2>
+<p>1x Buckle-Free Waist Belt</p>
+<h2>Note:</h2>
+<ul>
+<li>The color of the product shown in the pictures may slightly vary from the actual item due to the differences in the monitor and light effect.</li>
+<li>Please allow slight measuring deviation due to manual measurement.</li>
+</ul>
+<h2>🌎FREE Shipping Worldwide ✈️</h2>
+<p>We are proud to offer FREE Shipping Worldwide on all orders. Standard International Shipping: 8-20 business days. All orders will be dispatched from our warehouse within 3 business days. In peak periods please allow for up to 6 business days for dispatch. Tracking Numbers will be sent so you can track it every step of the way.</p>
+<p>*All shipping times exclude clearance/customs delays.</p>
+<h2>🔒 100% Risk-Free Purchase 🔥</h2>
+<p>If you bought it and felt that it is not for you, don't worry. Just shoot us a message at contact@bloomvenus.com and we will make it right by offering you a replacement or refund.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>belt</s:tag>
+    <s:tag>buckle-free</s:tag>
+    <s:tag>waist belt</s:tag>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946423451723</id>
+      <title>Black</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>22112276-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946423451723</id>
+      <title>Blue</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>22112276-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946423451723</id>
+      <title>Brown</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>22112276-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946423451723</id>
+      <title>Champagne</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>22112276-champagne</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946423451723</id>
+      <title>White</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>22112276-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bloomvenus.com/products/3946422665291</id>
+    <published>2019-07-23T23:59:42-04:00</published>
+    <updated>2019-07-23T23:59:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bloomvenus.com/products/high-waist-shaping-panties"/>
+    <title>High Waist Shaping Panties</title>
+    <s:type></s:type>
+    <s:vendor>BloomVenus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0258/8026/4779/products/bloomvenus-high-waist-shaping-panties-12052443725899.jpg?v=1590102246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BloomVenus<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Product Description:</h2>
+<p><img src="https://media.giphy.com/media/ZBzWCgK92gAoxCBpIx/giphy.gif"></p>
+<p>This product made from quality nylon and broadcloth allows you to hide your belly fat instantly and comfortably. The shaping panty also perfect for your butt, hips, waist, and back.</p>
+<ul>
+<li>360º compression shapewear</li>
+<li>Immediately lifts butt</li>
+<li>Reduces waistline</li>
+<li>No rolling up and down</li>
+<li>Seamless; fits to any kind of clothes</li>
+<li>Comfortable</li>
+<li>Breathable</li>
+<li>Anti-bacterial</li>
+</ul>
+<h2>How to Use:</h2>
+<p><img src="https://media.giphy.com/media/WOxyAGF4PgAr4JL5c9/giphy.gif" width="326" height="326"></p>
+<p>Wear it like how normal underwear, then pull it upward.</p>
+<h2>Specifications:</h2>
+<p><strong>Material:</strong> Nylon, Cotton<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Type:</strong> Shapewear Panties<br><strong>Control Level:</strong> Medium<br><strong>Thickness:</strong> Standard<br><strong>Gender:</strong> Women<br><strong>Sizes:</strong> S 88lb. - 110lb. / M L 110-132lb. / XL XXL 132-165lb. / XXXL 165-198lb. / 4XL 198-242.5lb.<br><strong>Color:</strong> Khaki, Black</p>
+<h2>Include: </h2>
+<p>1x High Waist Shaping Panty</p>
+<h2>Note:</h2>
+<ul>
+<li>The color of the product shown in the pictures may slightly vary from the actual item due to the differences in the monitor and light effect.</li>
+<li>Please allow slight measuring deviation due to manual measurement.</li>
+</ul>
+<h2>🌎FREE Shipping Worldwide ✈️</h2>
+<p>We are proud to offer FREE Shipping Worldwide on all orders. Standard International Shipping: 8-20 business days. All orders will be dispatched from our warehouse within 3 business days. In peak periods please allow for up to 6 business days for dispatch. Tracking Numbers will be sent so you can track it every step of the way.</p>
+<p>*All shipping times exclude clearance/customs delays.</p>
+<h2>🔒 100% Risk-Free Purchase 🔥</h2>
+<p>If you bought it and felt that it is not for you, don't worry. Just shoot us a message at contact@bloomvenus.com and we will make it right by offering you a replacement or refund.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>high waist</s:tag>
+    <s:tag>panties</s:tag>
+    <s:tag>shaping</s:tag>
+    <s:tag>shaping panties</s:tag>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422665291</id>
+      <title>Khaki / M L 50-60kg</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>17350991-khaki-m-l-50-60kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422665291</id>
+      <title>Khaki / XL XXL 60-75kg</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>17350991-khaki-xl-xxl-60-75kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422665291</id>
+      <title>Black / M L 50-60kg</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>17350991-black-m-l-50-60kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422665291</id>
+      <title>Black / XL XXL 60-75kg</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>17350991-black-xl-xxl-60-75kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422665291</id>
+      <title>Khaki / XXXL 75-90kg</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>17350991-khaki-xxxl-75-90kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422665291</id>
+      <title>Black / XXXL 75-90kg</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>17350991-black-xxxl-75-90kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422665291</id>
+      <title>Khaki / S 40-50kg</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>17350991-khaki-s-40-50kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422665291</id>
+      <title>Khaki / 4XL 90-110kg</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>17350991-khaki-4xl-90-110kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422665291</id>
+      <title>Black / S 40-50kg</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>17350991-black-s-40-50kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bloomvenus.com/products/3946422665291</id>
+      <title>Black / 4XL 90-110kg</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>17350991-black-4xl-90-110kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
